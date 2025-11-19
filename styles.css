@@ -26,6 +26,7 @@ body {
     padding: 20px;
     grid-area: logo;
     object-fit: contain;
+    overflow: hidden;
 }
 
 #logo img {
